@@ -1,0 +1,7 @@
+# Required Packages to Install in active environment(venv) before running the app
+fastapi==0.116.1
+uvicorn==0.35.0
+sqlalchemy
+httpx
+pydantic
+python-multipart==0.0.20

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# Environments
+.venv/
+.env
+
+# Databases
+weather.db
+*.sqlite3
+
+# OS / editors
+.DS_Store
+.vscode/
